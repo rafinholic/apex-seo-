@@ -1,0 +1,6 @@
+{
+  "name": "ApexSEO - AI SEO Builder & Competitor Intelligence",
+  "description": "Comprehensive SEO builder, keyword analyzer, content optimization studio, competitor ranking tracker, metadata manager, and technical performance auditor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
